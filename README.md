@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+I'm+Ray%2C+UG+Student+at++CUHKSZ;Passionate+about+Machine+Learning+%F0%9F%A4%96;Traditional+Algorithms+%F0%9F%94%8D;Frontend+%26+Backend+Development+%F0%9F%92%BB)](https://git.io/typing-svg)
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 # 👋 Hello, I'm Ruilizhen HU! You can also call me Ray! 🚀
 
