@@ -2,6 +2,12 @@
 
 # 👋 Hello, I'm Ruilizhen HU! You can also call me Ray! 🚀
 
+A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhen. I have a keen interest in machine learning, algorithms, full-stack development, and cryptography. Actively involved in various projects and research initiatives in these domains. Always eager to learn and explore more, staying updated with the latest trends and advancements in technology.
+
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&theme=dark" />
+</p>
+
 ## 🎓 Education
 <table style="width:100%" align="center">
   <tr>
@@ -88,6 +94,13 @@
       <img src="https://img.shields.io/badge/-Postman-%238D6748?style=flat-square&logo=postman&logoColor=orange" />
     </td>
   </tr>
+  <tr>
+    <th>Machine Learning</th>
+    <td>
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ## 📞 Get in Touch
@@ -126,7 +139,7 @@
     <td>
       <a href="mailto:huruilizhen@gmail.com">
         <img src="https://img.shields.io/badge/Email-Personal-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
-      </a>,
+      </a>
       <a href="mailto:ruilizhenhu@link.cuhk.edu.cn">
         <img src="https://img.shields.io/badge/Email-Academic-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Academic Email" />
       </a>
@@ -134,8 +147,10 @@
   </tr>
 </table>
 
-## 📈 Stats
-![HuRuilizhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical)
+## 📊 Statistics
+<div style="width:100%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical" />
+</div>
 
 ## 🏆 Achievements
 <table style="width:100%" align="center">
