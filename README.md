@@ -3,41 +3,162 @@
 # 👋 Hello, I'm Ruilizhen HU! You can also call me Ray! 🚀
 
 ## 🎓 Education
-- **Undergraduate Student** at The Chinese University of Hong Kong, Shenzhen Campus (Class of 2022)
-- Major in Computer Science & Technology
+<table style="width:100%" align="center">
+  <tr>
+    <th>Institution</th>
+    <th>Program</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>The Chinese University of Hong Kong, Shenzhen</td>
+    <td>Bachelor of Science in Computer Science & Technology</td>
+    <td>2022 - 2026</td>
+  </tr>
+  <tr>
+    <td>Nanyang Technological University, Singapore</td>
+    <td>Exchange Program in Electrical and Electronic Engineering</td>
+    <td>Spring 2025</td>
+  </tr>
+</table>
 
-## 💻 Skills and Interests
-- Passionate about Machine Learning 🤖
-- Expertise in Traditional Algorithms 🔍
-- Experienced in Frontend & Backend Development 💻
-  - Backend: Flask, Django
-  - Frontend: Vue.js
-- Hobby: Crafting Cool Projects 🛠️
-
-## 📚 Projects
-- Feel free to explore some of the projects I've been working on:
-  - [BlogWeb](https://github.com/HuRuilizhen/Blog-Web)
-  - [NN-to-DAG](https://github.com/HuRuilizhen/NN-to-DAG)
+## 💻 Skills
+<table style="width:100%" align="center">
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Ubuntu-FCC624?style=flat-square&logo=ubuntu" />
+      <img src="https://img.shields.io/badge/-Mac%20OS-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Markup Languages</th>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+      <img src="https://img.shields.io/badge/-Markdown-000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+    </td>
+  </tr> 
+  <tr>
+    <th>Programming Languages</th>
+    <td> 
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" />
+      <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=rust" />
+    </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs" />
+      <img src="https://img.shields.io/badge/-Flask-ff0000?style=flat-square&logo=flask" />
+      <img src="https://img.shields.io/badge/-Django-006400?style=flat-square&logo=django" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-99ff99?style=flat-square&logo=mongodb" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Automate, Deploy, Platform & Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git" /> 
+      <img src="https://img.shields.io/badge/-Nginx-009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github" />
+    </td>
+  </tr>
+  <tr>
+    <th>Hosting/SaaS/PaaS</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Heroku-430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Alibaba%20Cloud-000000.svg?&style=flat-square&logo=alibabacloud" />
+    </td>
+  </tr>
+  <tr>
+    <th>Testing</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Postman-%238D6748?style=flat-square&logo=postman&logoColor=orange" />
+    </td>
+  </tr>
+</table>
 
 ## 📞 Get in Touch
-- LinkedIn: [in/ruilizhen-hu](www.linkedin.com/in/ruilizhen-hu)
-- Email:
-  - Private: [huruilizhen@gmail.com](huruilizhen@gmail.com)
-  - College: [ruilizhenhu@link.cuhk.edu.cn](ruilizhenhu@link.cuhk.edu.cn)
+
+<table style="width:100%" align="center">
+  <tr>
+    <th>Platform</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Website</td>
+    <td>
+      <a href="https://huruilizhen.github.io">
+        <img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>
+      <a href="https://www.linkedin.com/in/ruilizhen-hu">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>
+      <a href="https://github.com/HuRuilizhen">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td>
+      <a href="mailto:huruilizhen@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Personal-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" />
+      </a>,
+      <a href="mailto:ruilizhenhu@link.cuhk.edu.cn">
+        <img src="https://img.shields.io/badge/Email-Academic-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Academic Email" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Stats
-- ![HuRuilizhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical)
+![HuRuilizhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
-- **Bronze Medalist** at National Olympiad in Informatics 2021 (NOI2021) 🥉
-- **Silver Medalist** at China Collegiate Programming Contest 2022 Weihai Regional (CCPC2022) 🥈
+<table style="width:100%" align="center">
+  <tr>
+    <th>Event</th>
+    <th>Year</th>
+    <th>Award</th>
+  </tr>
+  <tr>
+    <td>National Olympiad in Informatics</td>
+    <td>2021</td>
+    <td>🥉 Bronze Medalist</td>
+  </tr>
+  <tr>
+    <td>China Collegiate Programming Contest 2022 Weihai Regional</td>
+    <td>2022</td>
+    <td>🥈 Silver Medalist</td>
+  </tr>
+</table>
 
 ---
-Feel free to reach out if you're interested in collaborating or just want to say hi! 🚀
 
----
-
-> *Last Updated: [Aug, 30th, 2024]*
+> *Last Updated: [January, 5th, 2025]*
 <!---
 HuRuilizhen/HuRuilizhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
