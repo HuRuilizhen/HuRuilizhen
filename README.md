@@ -22,7 +22,7 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
   </tr>
   <tr>
     <td>Nanyang Technological University, Singapore</td>
-    <td>Exchange Program in Electrical and Electronic Engineering</td>
+    <td>Exchange Program in Computer Science</td>
     <td>Spring 2025</td>
   </tr>
 </table>
