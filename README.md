@@ -27,6 +27,30 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
   </tr>
 </table>
 
+## 💼 Work Experience
+<table style="width:100%" align="center">
+  <tr>
+    <th>Company</th>
+    <th>Role</th>
+    <th>Duration</th>
+  </tr>
+  <tr>
+    <td>Shenzhen Zhongzhilechuang Technology Co., Ltd.</td>
+    <td>Full Stack Engineer</td>
+    <td>July 2024 - Jan 2025</td>
+  </tr>
+  <tr>
+    <td>Tencent Holding - WeXin Group</td>
+    <td>Intern Clientend Engineer</td>
+    <td>Jun 2025 - Sept 2025</td>
+  </tr>
+  <tr>
+    <td>Squady AI</td>
+    <td>Intern Backend Engineer</td>
+    <td>Sept 2025 - Present</td>
+  </tr>
+</table>
+
 ## 💻 Skills
 <table style="width:100%" align="center">
   <tr>
