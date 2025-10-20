@@ -74,6 +74,7 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
     <td> 
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk" />
       <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
       <img src="https://img.shields.io/badge/-Rust-8b0000?style=flat-square&logo=rust" />
