@@ -177,6 +177,9 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
 <div style="width:100%" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HuRuilizhen&show_icons=true&theme=radical" />
 </div>
+<div align="center">
+  <img src="https://wakatime.com/share/@HuRuilizhen/4c3695e7-ce6f-4c90-9a39-5ad0e9c29083.svg" style="width:50%">
+</div>
 
 ## 🏆 Achievements
 <table style="width:100%" align="center">
