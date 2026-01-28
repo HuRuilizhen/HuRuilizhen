@@ -202,7 +202,7 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
 
 ---
 
-> *Last Updated: [Februaray, 14th, 2025]*
+> *Last Updated: [January, 28th, 2026]*
 <!---
 HuRuilizhen/HuRuilizhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
