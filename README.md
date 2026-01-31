@@ -35,7 +35,7 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
     <th>Duration</th>
   </tr>
   <tr>
-    <td>Shenzhen Zhongzhilechuang Technology Co., Ltd.</td>
+    <td>Shenzhen Jianchenzhiyan Technology Co., Ltd.</td>
     <td>Full Stack Engineer</td>
     <td>July 2024 - Jan 2025</td>
   </tr>
@@ -47,7 +47,7 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
   <tr>
     <td>Squady AI</td>
     <td>Intern Backend Engineer</td>
-    <td>Sept 2025 - Present</td>
+    <td>Sept 2025 - Nov 2025</td>
   </tr>
 </table>
 
