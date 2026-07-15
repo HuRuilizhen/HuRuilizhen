@@ -2,7 +2,9 @@
 
 # 👋 Hello, I'm Ruilizhen HU! You can also call me Ray! 🚀
 
-A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhen. I have a keen interest in machine learning, algorithms, full-stack development, and cryptography. Actively involved in various projects and research initiatives in these domains. Always eager to learn and explore more, staying updated with the latest trends and advancements in technology.
+Software Engineer at Tencent and a Computer Science graduate from The Chinese University of Hong Kong, Shenzhen.
+
+My primary interests lie in modern C++ development, software architecture, algorithms, distributed systems, and machine learning. I enjoy designing reliable, maintainable software and building reusable tools and libraries that solve real-world engineering problems. Outside of work, I actively contribute to open-source projects and continuously explore new technologies to deepen my understanding of computer science and software engineering.
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&theme=dark" />
@@ -36,18 +38,23 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
   </tr>
   <tr>
     <td>Shenzhen Jianchenzhiyan Technology Co., Ltd.</td>
-    <td>Full Stack Engineer</td>
+    <td>Full Stack Engineer & Co-founder</td>
     <td>July 2024 - Jan 2025</td>
   </tr>
   <tr>
     <td>Tencent Holding - WeXin Group</td>
     <td>Intern Clientend Engineer</td>
-    <td>Jun 2025 - Sept 2025</td>
+    <td>May 2025 - Sept 2025</td>
   </tr>
   <tr>
     <td>Squady AI</td>
     <td>Intern Backend Engineer</td>
     <td>Sept 2025 - Nov 2025</td>
+  </tr>
+  <tr>
+    <td>Tencent Holding - WeXin Group</td>
+    <td>Clientend Engineer</td>
+    <td>July 2026 - Now</td>
   </tr>
 </table>
 
@@ -194,7 +201,7 @@ A Computer Science undergraduate at The Chinese University of Hong Kong, Shenzhe
 
 ---
 
-> *Last Updated: [January, 28th, 2026]*
+> *Last Updated: [July, 15th, 2026]*
 <!---
 HuRuilizhen/HuRuilizhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
